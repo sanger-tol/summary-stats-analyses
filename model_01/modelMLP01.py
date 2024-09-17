@@ -123,4 +123,4 @@ plt.ylabel('Predicted Values')
 plt.title('True vs. Predicted Values (Parity Plot)')
 plt.show()
 
-model.save('modelo_peak_memory.h5')
+model.save('model_peak_memory.h5')
